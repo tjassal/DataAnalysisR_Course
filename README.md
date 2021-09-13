@@ -1,2 +1,4 @@
 # DataAnalysisR_Course
 Documents and links needed for my Env. Data Analysis in R Course. Note: this is not the course repo. 
+
+I created this link so I could post documents here and not on my lab website. 
